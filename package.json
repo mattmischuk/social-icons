@@ -1,0 +1,9 @@
+{
+  "name": "social-icons",
+  "version": "1.0.0",
+  "description": "A simple collection of up to date SVGs with PNG fallbacks for social icons.",
+  "main": "index.js",
+  "author": "Matt Mischuk <m.mischuk@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
