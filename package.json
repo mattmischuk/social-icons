@@ -1,6 +1,6 @@
 {
   "name": "social-icons",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description":
     "A simple collection of up-to-date SVGs with PNG fallbacks for social icons.",
   "main": "index.js",
